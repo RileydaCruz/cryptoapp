@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # cryptoapp
 # cryptoapp
 # cryptoapp
+# cryptoapp
